@@ -1,2 +1,4 @@
-All files should be pushed. 
-Firts task of my first school project
+**My first project readme file**
+#optional vagrant
+1. Create file
+2. Create a readne file.
